@@ -11,7 +11,7 @@ Languages: JavaScript, HTML, CSS, Python
 Front-End: React.js, Redux, next.js
 Back-End: Node.js, Express.js
 Databases: MongoDB, MySQL
-Tools: Git, Webpack, Babel, npm, 
+Tools: Git, npm
 🚀 My Focus:
 I'm dedicated to creating clean, efficient, and scalable code. With a strong focus on front-end development, I strive to develop pixel-perfect user interfaces and ensure smooth interactions using the latest web technologies.
 
