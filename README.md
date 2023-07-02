@@ -2,7 +2,7 @@
 
 🌟 Front-End Engineer | React.js | Node.js | Python 🌟
 
-![sample](Black and Violet Futuristic Modern Pattern 5G Technology Presentation.png)
+![Image](sample.png)
 👋 Welcome to my GitHub profile! I'm Sourabh Verma, a passionate Front-End Engineer with expertise in React.js, Node.js, and Python. I love crafting stunning user interfaces and building seamless web experiences that leave a lasting impression.
 
 # 💻 Technical Skills:
