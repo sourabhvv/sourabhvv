@@ -7,10 +7,10 @@
 💻 Technical Skills:
 
 Languages: JavaScript, HTML, CSS, Python
-Front-End: React.js, Redux, Vue.js, Angular
+Front-End: React.js, Redux, next.js
 Back-End: Node.js, Express.js
 Databases: MongoDB, MySQL
-Tools: Git, Webpack, Babel, npm, Docker
+Tools: Git, Webpack, Babel, npm, 
 🚀 My Focus:
 I'm dedicated to creating clean, efficient, and scalable code. With a strong focus on front-end development, I strive to develop pixel-perfect user interfaces and ensure smooth interactions using the latest web technologies.
 
@@ -23,8 +23,8 @@ As technology evolves rapidly, I'm committed to staying up-to-date with the late
 I'm excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me on GitHub and let's create amazing things together!
 
 🌐 Portfolio: [Your portfolio website]
-🐦 Twitter: [Your Twitter handle]
+🐦 Instagram: [https://www.instagram.com/sourabh_verma77/]
 📧 Email: [sourabhv945@gmail.com]
-📝 LinkedIn: [Your LinkedIn profile]
+📝 LinkedIn: [https://www.linkedin.com/in/sourabh-verma-929994236/]
 
 🚀 Code with passion and make an impact! ✨
