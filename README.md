@@ -1,10 +1,11 @@
-👨‍💻 Sourabh Verma 👨‍💻
+# 👨‍💻 Sourabh Verma 👨‍💻
 
 🌟 Front-End Engineer | React.js | Node.js | Python 🌟
 
+
 👋 Welcome to my GitHub profile! I'm Sourabh Verma, a passionate Front-End Engineer with expertise in React.js, Node.js, and Python. I love crafting stunning user interfaces and building seamless web experiences that leave a lasting impression.
 
-💻 Technical Skills:
+# 💻 Technical Skills:
 
 Languages: JavaScript, HTML, CSS, Python
 Front-End: React.js, Redux, next.js
@@ -16,10 +17,10 @@ I'm dedicated to creating clean, efficient, and scalable code. With a strong foc
 
 y.
 
-📚 Continuous Learning:
+# 📚 Continuous Learning:
 As technology evolves rapidly, I'm committed to staying up-to-date with the latest trends and best practices. I'm always seeking opportunities to enhance my skills and explore new frameworks and tools.
 
-🌟 Let's Connect:
+# 🌟 Let's Connect:
 I'm excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me on GitHub and let's create amazing things together!
 
 🌐 Portfolio: [Your portfolio website]
