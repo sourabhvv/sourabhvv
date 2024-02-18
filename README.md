@@ -2,7 +2,7 @@
 
 🌟 Fullstack Engineer |PHP||Laravel- Developer||SQL| React.js | Node.js | Python 🌟
 
-![Image](sample.png)
+![Image](background.png)
 👋 Welcome to my GitHub profile! I'm Sourabh Verma, a passionate Front-End Engineer with expertise in React.js, Node.js, and Python. I love crafting stunning user interfaces and building seamless web experiences that leave a lasting impression.
 
 # 💻 Technical Skills:
