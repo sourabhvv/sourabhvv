@@ -2,7 +2,7 @@
 
 🌟 **Fullstack Engineer | Java Spring Boot | MERN Stack | Postgres | Node.js** 🌟
 
-![Image](background.png)
+
 
 👋 **Welcome!**  
 I'm Sourabh Verma, a passionate Fullstack Engineer with a deep love for building scalable, high-performance applications. With expertise in **React.js**, **Node.js**, **Java Spring Boot**, and **PostgreSQL**, I turn ideas into impactful digital experiences. I believe in creating code that is not only functional but also optimized for performance and scalability.
