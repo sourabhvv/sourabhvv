@@ -11,9 +11,9 @@ I'm Sourabh Verma, a passionate Fullstack Engineer with a deep love for building
 
 ## 💻 **Technical Skills**:
 
-- **Languages**: PHP, JavaScript, HTML, CSS, Python, Java
+- **Languages**: JAVA,CPP,JAVASCRIPT 
 - **Front-End**: React.js, Next.js, Redux, Tailwind CSS
-- **Back-End**: Node.js, PHP (Laravel), Java (Spring Boot), Express.js
+- **Back-End**: Node.js,Java (Spring Boot), Express.js
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Tools**: Git, npm, Docker, AWS
 
