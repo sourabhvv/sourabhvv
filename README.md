@@ -1,4 +1,4 @@
-## 👋 Hey, I’m **Sourabh Verma**  
+# 👋 Hey, I’m **Sourabh Verma**  
 <!-- Waving hand SVG -->
 <svg xmlns="http://www.w3.org/2000/svg" width="36" height="24" viewBox="0 0 24 24" style="vertical-align:middle; margin-left:6px">
   <g transform="translate(0,0)">
@@ -15,32 +15,61 @@
   </g>
 </svg>
 
-##### 🛠 Tech Arsenal  
-- **Backend Power:** Java • Spring Boot • Microservices • REST APIs  
-- **Frontend Magic:** React.js • Next.js • Tailwind CSS  
-- **Databases:** PostgreSQL • MySQL • Oracle  
-- **Cloud & DevOps:** AWS • Docker • Kubernetes  
-- **Security:** JWT • OAuth • Spring Security  
+---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 600 8" preserveAspectRatio="none" style="display:block; margin:6px 0;">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7c3aed">
-        <animate attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#7c3aed;#06b6d4;#ef4444;#7c3aed"/>
-      </stop>
-      <stop offset="100%" stop-color="#06b6d4">
-        <animate attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#06b6d4;#ef4444;#7c3aed;#06b6d4"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="600" height="8" fill="url(#g)">
-    <animate attributeName="x" from="-600" to="0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+## 🛠 Tech Arsenal  
+💻 Backend  
+`Java` • `Spring Boot` • `Microservices` • `REST APIs`  
 
-##### 🔭 What I’m Up To  
-- Architecting **enterprise-grade solutions** at Oracle.  
+🎨 Frontend  
+`React.js` • `Next.js` • `Tailwind CSS`  
+
+🗄️ Databases  
+`PostgreSQL` • `MySQL` • `Oracle`  
+
+☁️ Cloud & DevOps  
+`AWS` • `Docker` • `Kubernetes`  
+
+🔒 Security  
+`JWT` • `OAuth` • `Spring Security`  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,tailwind,postgres,mysql,oracle,aws,docker,kubernetes" />
+</p>
+
+---
+
+## 📊 My GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SourabhVerma&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SourabhVerma&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SourabhVerma&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🔭 What I’m Up To  
+- Architecting **enterprise-grade solutions** at *Oracle*.  
 - Contributing to **open-source** & exploring cutting-edge web tech.  
-- **Latest Project:** [**UICreator**](https://www.uicreator.site) – React + Tailwind CSS UI components library.  
+- 🚀 **Latest Project:** [**UICreator**](https://www.uicreator.site) – a React + Tailwind CSS UI components library.  
 
 > ✨ *Clean. Secure. Built to scale — that’s my signature.*
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourabh-verma-/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sourabh.verma@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SourabhVerma">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
