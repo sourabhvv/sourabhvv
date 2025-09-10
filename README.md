@@ -19,13 +19,13 @@
 
 ## 🛠 Tech Arsenal  
 💻 Backend  
-`Java` • `Spring Boot` • `Microservices` • `REST APIs`  
+`Java` • `Spring Boot` • `Microservices` • `REST APIs`  • `Express JS /Node JS` 
 
 🎨 Frontend  
 `React.js` • `Next.js` • `Tailwind CSS`  
 
 🗄️ Databases  
-`PostgreSQL` • `MySQL` • `Oracle`  
+`PostgreSQL` • `MySQL` • `Oracle` • `MongoDB` 
 
 ☁️ Cloud & DevOps  
 `AWS` • `Docker` • `Kubernetes`  
@@ -53,7 +53,7 @@
 ---
 
 ## 🔭 What I’m Up To  
-- Architecting **enterprise-grade solutions** at *Oracle*.  
+- Working on **enterprise-grade solutions** ORMB at *Oracle*.  
 - Contributing to **open-source** & exploring cutting-edge web tech.  
 - 🚀 **Latest Project:** [**UICreator**](https://www.uicreator.site) – a React + Tailwind CSS UI components library.  
 
