@@ -39,16 +39,7 @@
 
 ---
 
-## 📊 My GitHub Analytics  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SourabhVerma&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SourabhVerma&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SourabhVerma&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
