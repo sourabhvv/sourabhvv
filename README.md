@@ -43,13 +43,6 @@
 
 ---
 
-## 🔭 What I’m Up To  
-- Working on **enterprise-grade solutions** ORMB at *Oracle*.  
-- Contributing to **open-source** & exploring cutting-edge web tech.  
-- 🚀 **Latest Project:** [**UICreator**](https://www.uicreator.site) – a React + Tailwind CSS UI components library.  
-
-> ✨ *Clean. Secure. Built to scale — that’s my signature.*
-
 ---
 
 ## 🌐 Connect with Me  
